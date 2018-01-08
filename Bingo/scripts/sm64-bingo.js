@@ -40,7 +40,7 @@ bingoList[6] = [
   { name: "All gems in Aquaria Towers", types: [] },
   { name: "Get 'Hula Girls Rescue' and 'Manta Ride II' Orbs", types: [] },
   { name: "All enemies in Aquaria Towers", types: [] },
-  { name: "#SeahorseLivesMatter", types: [] },
+  { name: "Rescue all Seahorses in Aquaria Towers", types: [] },
   { name: "Use all instances of the superfly powerup", types: [] }
 ];
 bingoList[7] = [
