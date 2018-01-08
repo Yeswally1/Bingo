@@ -65,7 +65,7 @@ bingoList[10] = [
 bingoList[11] = [
   { name: "Mantas 2 and Turtle Boxes orbs", types: [] },
   { name: "Use all '14' powerups", types: [] },
-  { name: "#SeahorseLivesMatter", types: [] },
+  { name: "Rescue all seahorses in Aquaria Towers", types: [] },
   { name: "Mantas 1 and UFOs 1 orbs", types: [] }
 ];
 bingoList[12] = [
