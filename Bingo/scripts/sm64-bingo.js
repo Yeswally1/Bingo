@@ -2,184 +2,162 @@ var bingoList = [];
 // Summer Forest 1
 bingoList[1] = [
   { name: "All gems in Glimmer", types: [] },
-  { name: "600 combined gems in Glimmer and Robotica Farms", types: [] },
-  { name: "Get 'Lizard Hunt' and 'Lava Lizards I' Orbs", types: [] },
-  { name: "Get 'Gem Lamp Flight in Cave' and 'Mine Blast' Orbs", types: [] },
-  { name: "Use all instances of the supercharge powerup", types: [] }
+  { name: "Cave Lamps and Bombo orbs", types: [] },
+  { name: "Stand on 8 Non-Summer Forest portals", types: [] },
+  { name: "All orbs in Glimmer", types: [] }
 ];
 bingoList[2] = [
-  { name: "All gems in Idol Springs", types: [] },
-  { name: "250 gems in Idol Springs and Cloud Temples", types: [] },
-  { name: "Break 3 Mystery Jars", types: [] },
-  { name: "Get the Talisman in Idol Springs, Fracture Hills and Magma Cone", types: [] },
-  { name: "Get 4 combined orbs in Colossus and Shady Oasis", types: [] }
+  { name: "100% Crystal Glacier", types: [] },
+  { name: "Draclets and Robot Scarecrows orbs", types: [] },
+  { name: "Speak to all instances of Zoe", types: [] },
+  { name: "Unlock Metropolis", types: [] }
 ];
 bingoList[3] = [
-  { name: "All gems in Colossus", types: [] },
-  { name: "225 gems in Mystic Marsh and Colossus", types: [] },
-  { name: "Speak to all NPCs in Colossus", types: [] },
-  { name: "Get 6 end of level items", types: [] },
-  { name: "All end of Level Orbs", types: [] }
+  { name: "Use all instances of the superfly powerup", types: [] },
+  { name: "600 combined gems in Glimmer and Robotica Farms", types: [] },
+  { name: "Tractor Path and Popcorn 1 orbs", types: [] },
+  { name: "5 combined orbs in Glimmer, Breeze Harbor and Robotica Farms", types: [] }
 ];
 bingoList[4] = [
-  { name: "All gems in Hurricos", types: [] },
-  { name: "275 gems in Hurricos and Sunny Beach", types: [] },
-  { name: "Get 5 combined orbs in Hurricos and Winter Tundra", types: [] },
-  { name: "Get 'Stone Thieves' and 'Gear Grab' Orbs", types: [] },
-  { name: "Enter 3 inactive portals from OoB", types: [] }
+  { name: "Dinos 2 and Cowleks 1 orbs", types: [] },
+  { name: "Collect 9 Pink gems", types: [] },
+  { name: "#BoneDance", types: [] },
+  { name: "Get the Talisman in Sunny Beach, Skelos Badlands and Zephyr", types: [] }
 ];
 bingoList[5] = [
-  { name: "All gems in Sunny Beach", types: [] },
-  { name: "Get 'Gem Lamp Flight Outdoors' and 'Turtle Soup 2' Orbs", types: [] },
-  { name: "#Lucky7", types: [] },
-  { name: "Do 5 Challenges that are a sequence of 2 parts.", types: [] },
-  { name: "Get the Talisman in Sunny Beach, Breeze Harbor and Zephyr", types: [] }
+  { name: "All enemies in Zephyr", types: [] },
+  { name: "Break 10 Strong Chests", types: [] },
+  { name: "Use all instances of the invincibilty powerup", types: [] },
+  { name: "Cowleks 2 and Turtle Soup 1 orbs", types: [] }
 ];
 // 
 bingoList[6] = [
-  { name: "All gems in Aquaria Towers", types: [] },
-  { name: "Get 'Hula Girls Rescue' and 'Manta Ride II' Orbs", types: [] },
-  { name: "All enemies in Aquaria Towers", types: [] },
-  { name: "Rescue all Seahorses in Aquaria Towers", types: [] },
-  { name: "Use all instances of the superfly powerup", types: [] }
+  { name: "All gems in Shady Oasis", types: [] },
+  { name: "Hippos and Hula Girls orbs", types: [] },
+  { name: "Break 3 Mystery Jars", types: [] },
+  { name: "All orbs in Shady Oasis", types: [] }
 ];
 bingoList[7] = [
-  { name: "All gems in Crystal Glacier", types: [] },
-  { name: "Get 'Crystal Geysers I' and 'Ox Bombing' Orbs", types: [] },
-  { name: "All enemies in Crystal Glacier", types: [] },
-  { name: "Free all Frozen Icebuilders and watch the Snowball Cutscene in Crystal Glacier", types: [] },
-  { name: "Collect 80 different Spirit Particles", types: [] }
+  { name: "All gems in Scorch", types: [] },
+  { name: "550 combined gems in Scorch and Mystic Marsh", types: [] },
+  { name: "Collect 80 different Spirit Particles", types: [] },
+  { name: "Scorch Skillpoint and all dormant bushes/trees in Fracture", types: [] }
 ];
 bingoList[8] = [
-  { name: "All gems in Skelos Badlands", types: [] },
-  { name: "250 gems in Breeze Harbor and Skelos Badlands", types: [] },
-  { name: "#BoneDance", types: [] },
-  { name: "Get 3 combined orbs in Breeze Harbor and Scorch", types: [] },
-  { name: "Stand on 10 Portals and both Skulls in Skelos Badlands", types: [] }
+  { name: "Spark Plug Thieves and Turtle Soup 2 orbs", types: [] },
+  { name: "Use 5 different powerup types", types: [] },
+  { name: "All orbs in Mystic Marsh", types: [] },
+  { name: "5 combined orbs in Crystal Glacier, Mystic Marsh and Cloud Temples", types: [] }
 ];
 bingoList[9] = [
-  { name: "All gems in Zephyr", types: [] },
-  { name: "550 combined gems in Aquaria Towers and Zephyr", types: [] },
-  { name: "All enemies in Zephyr", types: [] },
-  { name: "Get 5 combined orbs in Zephyr and Mystic Marsh", types: [] },
-  { name: "Watch the Glimmer Exit Cutscene", types: [] }
+  { name: "All enemies in Cloud Temples", types: [] },
+  { name: "Monkeys and Bells orbs", types: [] },
+  { name: "Break 14 Firework Bottles", types: [] },
+  { name: "Agent 0 and Earthshapers orbs", types: [] }
 ];
 bingoList[10] = [
-  { name: "All gems in Breeze Harbor", types: [] },
-  { name: "Get 'Draclet Cave' and 'Lava Lizards II' Orbs", types: [] },
-  { name: "Activate all '14' powerups", types: [] },
-  { name: "Destroy 10 Strong Chests", types: [] },
-  { name: "Get the Talisman in Hurricos, Aquaria Towers and Skelos Badlands", types: [] }
+  { name: "All gems in Sunny Beach", types: [] },
+  { name: "600 combined gems in Sunny Beach and Magma Cone", types: [] },
+  { name: "7 orbs from Hunter", types: [] },
+  { name: "Get the Talisman in Aquaria Towers, Fracture Hills and Shady Oasis", types: [] }
 ];
 // 
 bingoList[11] = [
-  { name: "All gems in Scorch", types: [] },
-  { name: "Get 'Capture the Flags' and 'Free the Faun' Orbs", types: [] },
-  { name: "Scorch Skillpoint and all dormant bushes and trees in Fracture", types: [] },
-  { name: "Speak to every Zoe", types: [] },
-  { name: "Get the Talisman in Colossus, Scorch and Shady Oasis", types: [] }
+  { name: "Mantas 2 and Turtle Boxes orbs", types: [] },
+  { name: "Use all '14' powerups", types: [] },
+  { name: "#SeahorseLivesMatter", types: [] },
+  { name: "Mantas 1 and UFOs 1 orbs", types: [] }
 ];
 bingoList[12] = [
-  { name: "All gems in Fracture Hills", types: [] },
-  { name: "225 gems in Zephyr and Fracture Hills", types: [] },
-  { name: "Speak to Spinner the Faun with 1200 current gems", types: [] },
-  { name: "Get 'Ring Tower Bells' and 'Earthshaper Bash' Orbs", types: [] },
-  { name: "Break 5 red gem baskets", types: [] }
+  { name: "All enemies in Fracture Hills", types: [] },
+  { name: "Faun and Trolley", types: [] },
+  { name: "Pay Moneybags 7 times", types: [] },
+  { name: "All orbs in Fracture Hills", types: [] }
 ];
 bingoList[13] = [
-  { name: "All gems in Magma Cone", types: [] },
-  { name: "600 combined gems in Magma Cone and Shady Oasis", types: [] },
-  { name: "All enemies in Magma Cone", types: [] },
-  { name: "Use all instances of the invinciblity powerup", types: [] },
-  { name: "Get 'Evil Spirit Search' and 'Party Crashers' Orbs", types: [] }
+  { name: "11 Autumn Plains orbs", types: [] },
+  { name: "600 combined gems in Colossus and Breeze Harbor", types: [] },
+  { name: "Speak to Beaky the Breezebuilder with 15 lives", types: [] },
+  { name: "Spirit Statues and Alchemist orbs' orbs", types: [] }
 ];
 // 
 bingoList[14] = [
-  { name: "All gems in Shady Oasis", types: [] },
-  { name: "Get 'Retrieve Professor's Pencil' and 'Factory Glide 2' Orbs", types: [] },
-  { name: "Activate all '18' powerups", types: [] },
-  { name: "Get 'Catch 3 Thieves' and 'Very Versatile Thieves!' Orbs", types: [] },
-  { name: "Activate all '2' powerups", types: [] },
+  { name: "All gems in Breeze Harbor", types: [] },
+  { name: "Hockey 1 and Floating Mines orbs", types: [] },
+  { name: "All orbs in Breeze Harbor", types: [] },
+  { name: "Get the Talisman in Colossus, Scorch and Magma Cone ", types: [] },
 ];
 bingoList[15] = [
-  { name: "All gems in Mystic Marsh", types: [] },
-  { name: "All enemies in Mystic Marsh", types: [] },
-  { name: "Activate all '20' powerups", types: [] },
-  { name: "Stand on 4 WT portals", types: [] },
-  { name: "All enemies in Scorch", types: [] }
+  { name: "100% Magma Cone", types: [] },
+  { name: "Factory Glide 2 and Party Crashers orbs", types: [] },
+  { name: "Use all instances of the spring powerup", types: [] },
+  { name: "Hockey Skillpoint", types: [] }
 ];
 // 
 bingoList[16] = [
-  { name: "All gems in Cloud Temples", types: [] },
-  { name: "All enemies in Cloud Temples", types: [] },
-  { name: "Headbash 3 Headbash Crates", types: [] },
-  { name: "Unlock Cloud Temples", types: [] },
-  { name: "Get 'Alchemist Escort' and 'Agent Zero's Secret Hideout' Orbs", types: [] }
+  { name: "Puzzle and Factory Glide 1", types: [] },
+  { name: "Fire a rocket in each homeworld", types: [] },
+  { name: "Use all instances of the supercharge powerup", types: [] },
+  { name: "6 combined orbs in Idol Springs, Hurricos and Metropolis", types: [] }
 ];
 bingoList[17] = [
-  { name: "All gems in Metropolis", types: [] },
-  { name: "650 combined gems in Metropolis and Scorch", types: [] },
-  { name: "Break all Firework Bottles", types: [] },
-  { name: "Shoot down Sheep Saucers II', 'Seahorse Rescue' and 'Factory Glide 1' Orbs", types: [] },
-  { name: "Mantas 2 & Party Crashers orbs", types: [] },
-  { name: "All Orbs in 2 levels that have 4 orbs", types: [] }
+  { name: "100% Hurricos", types: [] },
+  { name: "20 orbs", types: [] },
+  { name: "Stand on 8 Non-Autumn Plains Portals", types: [] },
+  { name: "Lightning Stones and Lamp Thieves orbs", types: [] }
 ];
 bingoList[18] = [
-  { name: "All gems in Robotica Farms", types: [] },
-  { name: "Get 'Exterminate crow bugs' and 'Barrel of Monkeys' Orbs", types: [] },
-  { name: "Fire all rockets", types: [] },
-  { name: "Get 'Clear Tractor Path' and 'Free Hippos' Orbs", types: [] },
-  { name: "Get 6 combined orbs in Summer Forest and Metropolis", types: [] },
+  { name: "All gems in Metropolis", types: [] },
+  { name: "George and Ox orbs", types: [] },
+  { name: "Use all powerups less than '10'", types: [] },
+  { name: "All orbs in Metropolis", types: [] },
 ];
 bingoList[19] = [
-  { name: "125 Gems in 4 SF levels", types: [] },
-  { name: "Get 1000+ Summer Forest Gems", types: [] },
-  { name: "13 Summer Forest Orbs", types: [] },
-  { name: "Buy Climb with 13+ Orbs", types: [] },
-  { name: "100% Summer Forest", types: [] }
+  { name: "Popcorn 2 and Juliet 1 orbs", types: [] },
+  { name: "Pencil and Outdoor Lamps orbs", types: [] },
+  { name: "Lizard Hunt and Juliet 2 orbs", types: [] },
+  { name: "All end of level orbs", types: [] }
 ];
 bingoList[20] = [
-  { name: "150 Gems in 5 AP Levels", types: [] },
-  { name: "Get 1200+ Autumn Plains Gems", types: [] },
-  { name: "All Orbs in 4 levels that have 2 Orbs", types: [] },
-  { name: "11 Autumn Plains Orbs", types: [] },
-  { name: "All 12 '25' Gems", types: [] }
+  { name: "500 combined gems in Shady Oasis and Aquaria Towers", types: [] },
+  { name: "500 combined gems in Idol Springs and Cloud Temples ", types: [] },
+  { name: "500 combined gems in Hurricos and Zephyr", types: [] },
+  { name: "600 combined gems in Skelos Badlands and Crystal Glacier", types: [] },
+  { name: "600 combined gems in Fracture Hills and Metropolis", types: [] }
 ];
 // 
 bingoList[21] = [
-  { name: "175 Gems in 4 WT levels", types: [] },
-  { name: "Get 1000+ Winter Tundra Gems", types: [] },
-  { name: "At least 2 Orbs from 4 WT levels", types: [] },
-  { name: "9 Winter Tundra Orbs", types: [] },
-  { name: "100% Winter Tundra", types: [] }
+  { name: "Canyon and Ocean orbs", types: [] },
+  { name: "All Hunter Speedway orbs", types: [] },
+  { name: "Enter 3 Inactive Portals from OoB", types: [] },
+  { name: "6 Skillpoints", types: [] }
 ];
 bingoList[22] = [
-  { name: "Pay moneybags a total of 2500 gems", types: [] },
-  { name: "Get 2500+ Gems", types: [] },
-  { name: "Unlock Metropolis", types: [] },
-  { name: "Get all Homeworld Orbs", types: [] },
-  { name: "Get 20 Orbs", types: [] },
+  { name: "All gems in 3 Speedways", types: [] },
+  { name: "Metro and Icy orbs", types: [] },
+  { name: "1200+ Autumn Plains gems", types: [] },
+  { name: "Destroy 8 sets of unique speedway targets", types: [] },
 ];
 bingoList[23] = [
-  { name: "Get 225 gems in all levels starting with a vowel", types: [] },
-  { name: "All Speedway Skillpoints", types: [] },
-  { name: "Buy Headbash with 8+ Talismans", types: [] },
-  { name: "Get an Orb from Hunter in 4 levels", types: [] },
-  { name: "Pop 30+ Non-Rollercoaster Balloons", types: [] }
+  { name: "Unlock Cloud Temples", types: [] },
+  { name: "Speak to Brother Harry with all enemies killed", types: [] },
+  { name: "Speak to Pogo the Gemcutter after defeating Gulp", types: [] },
+  { name: "Headbash 3 Headbash Crates", types: [] }
 ];
 bingoList[24] = [
-  { name: "Speak to Pogo the Gemcutter after defeating Gulp", types: [] },
-  { name: "Defeat intended Ripto ", types: [] },
-  { name: "Speak to Little Bo Peep after defeating Ripto", types: [] },
-  { name: "All boss skillpoints", types: [] },
-  { name: "7+ Tokens in Dragon Shores", types: [] }
+  { name: "Buy Headbash with 8+ Talismans", types: [] },
+  { name: "2500+ gems", types: [] },
+  { name: "Kill 10 different types of fodder", types: [] },
+  { name: "Buy Climb with 12+ orbs", types: [] },
+  { name: "Buy Swim with 1200+ current gems", types: [] }
 ];
 bingoList[25] = [
-  { name: "Speak to Master Chef with 15 lives", types: [] },
-  { name: "Kill 10 different types of fodder", types: [] },
+  { name: "All boss Skillpoints", types: [] },
+  { name: "9 Winter Tundra orbs", types: [] },
+  { name: "9 Summer Forest orbs", types: [] },
+  { name: "100% Summer Forest", types: [] },
   { name: "100% Autumn Plains", types: [] },
-  { name: "Stand on the Big Gem in Glimmer and the Highest Gear in Hurricos", types: [] },
-  { name: "Speak to Brother Harry with all enemies killed", types: [] }
+  { name: "100% Winter Tundra", types: [] }
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
